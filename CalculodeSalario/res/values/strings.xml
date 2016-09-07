@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AppIncome</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="pergunta1">What is your percentual</string>
+    <string name="texto1">Type your income</string>
+    <string name="botao1">Calc</string>
+
+</resources>
