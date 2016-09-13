@@ -15,7 +15,7 @@
         android:text="@string/pergunta1" />
     
     <EditText
-        android:id="@+id/num1"
+        android:id="@+id/ednum1"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:inputType="number" />
@@ -26,7 +26,7 @@
         android:text="@string/pergunta2" />
     
     <EditText
-        android:id="@+id/num2"
+        android:id="@+id/ednum2"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:inputType="number" />
@@ -65,8 +65,20 @@
             android:id="@+id/div"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="@string/escolha" />
+            android:text="@string/divisao" />
     	
 	</RadioGroup>
+	
+    <Button
+	    android:id="@+id/btcalcular"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="@string/calcular" />
+    
+    <Button
+	    android:id="@+id/btlimpar"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="@string/limpar" />
 
 </LinearLayout>

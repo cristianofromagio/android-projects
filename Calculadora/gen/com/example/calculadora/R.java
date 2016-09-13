@@ -24,11 +24,13 @@ public final class R {
         public static final int ic_launcher=0x7f020000;
     }
     public static final class id {
-        public static final int action_settings=0x7f080007;
+        public static final int action_settings=0x7f080009;
+        public static final int btcalcular=0x7f080007;
+        public static final int btlimpar=0x7f080008;
         public static final int div=0x7f080006;
+        public static final int ednum1=0x7f080000;
+        public static final int ednum2=0x7f080001;
         public static final int mult=0x7f080005;
-        public static final int num1=0x7f080000;
-        public static final int num2=0x7f080001;
         public static final int rgopcoes=0x7f080002;
         public static final int soma=0x7f080003;
         public static final int sub=0x7f080004;
