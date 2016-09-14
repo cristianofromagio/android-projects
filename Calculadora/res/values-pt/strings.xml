@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Calculadora</string>
+    <string name="action_settings">Configurações</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="pergunta1">Informe o primeiro número</string>
+    <string name="pergunta2">Informe o segundo número</string>
+    <string name="resultado">Resultado</string>
+    <string name="escolha">Escolha uma opção</string>
+    <string name="soma">Soma</string>
+    <string name="subtracao">Subtração</string>
+    <string name="multiplicacao">Multiplicação</string>
+    <string name="divisao">Dividir</string>
+    <string name="calcular">Calcular</string>
+    <string name="limpar">Limpar</string>
+    
+</resources>

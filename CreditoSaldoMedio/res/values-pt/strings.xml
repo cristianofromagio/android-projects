@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Crédito do Saldo Médio</string>
+    <string name="action_settings">Configurações</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="pergunta1">Informe seu saldo médio</string>
+    <string name="calcular">Calcular</string>
+    <string name="limpar">Limpar</string>
+
+</resources>
