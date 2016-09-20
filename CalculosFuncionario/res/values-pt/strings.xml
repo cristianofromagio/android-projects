@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Calculos Funcionário</string>
+    <string name="hello_world">Olá mundo!</string>
+    <string name="action_settings">Configurações</string>
+    <string name="pergunta1">Informe o código do funcionário:</string>
+    <string name="pergunta2">Informe o salário:</string>
+    <string name="pergunta3">Informe o tempo de serviço:</string>
+    <string name="calcular">Calcular</string>
+    <string name="limpar">Limpar</string>
+    
+</resources>
