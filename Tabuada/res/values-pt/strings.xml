@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Tabuada</string>
+    <string name="hello_world">Olá mundo!</string>
+    <string name="action_settings">Configurações</string>
+    <string name="pergunta1">Digite um número:</string>
+    <string name="calcular">Calcular</string>
+    <string name="limpar">Limpar</string>
+
+</resources>
