@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AritmeticaOpcao</string>
+    <string name="hello_world">Olá mundo!</string>
+    <string name="action_settings">Configurações</string>
+    <string name="pergunta1">Informe as opções:</string>
+    <string name="pergunta2">Informe número 1:</string>
+    <string name="pergunta3">Informe número 2:</string>
+    <string name="calcular">Calcular</string>
+    <string name="limpar">Limpar</string>
+
+</resources>
