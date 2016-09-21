@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">PedidoLancheria</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="pergunta1">Type product code:</string>
+    <string name="pergunta2">Type purchased amount:</string>
+    <string name="calcular">Calculate</string>
+    <string name="limpar">Clean</string>
+
+</resources>
