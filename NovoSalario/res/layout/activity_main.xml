@@ -1,0 +1,68 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.example.novosalario.MainActivity" >
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/pergunta1"
+        android:labelFor="@+id/salario" />
+    
+    <EditText
+        android:id="@+id/salario"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:inputType="numberDecimal" />
+    
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/pergunta2" />
+    
+    <RadioGroup
+        android:id="@+id/rgopcoes"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+                
+        <RadioButton
+            android:id="@+id/p1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:checked="false"
+            android:text="Técnico" />
+        
+        <RadioButton
+            android:id="@+id/p2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Gerente" />
+        
+        <RadioButton
+            android:id="@+id/p3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Outro cargo" />        
+    	
+	</RadioGroup>
+	
+    <Button
+	    android:id="@+id/btcalcular"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="@string/calcular" />
+    
+    <Button
+	    android:id="@+id/btlimpar"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="@string/limpar" />
+
+</LinearLayout>
