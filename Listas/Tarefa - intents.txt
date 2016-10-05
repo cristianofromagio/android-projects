@@ -1,0 +1,13 @@
+Exemplo de código que cria uma intent para abrir a calculadora do Android (o com.android.calculator2 é o caminho padrão para a maioria dos aparelhos com o Android puro).
+
+Intent intent = new Intent();
+intent.setAction(Intent.ACTION_MAIN);
+intent.addCategory(Intent.CATEGORY_LAUNCHER);
+intent.setComponent(new ComponentName("com.android.calculator2", "com.android.calculator2.Calculator"));
+startActivity(intent);
+
+Criar uma tela com três botões e cada um abre uma programa (Intent para cada um):
+
+Um botão para abrir a calculadora, outro para abrir o Chrome, outro para abrir o Maps.
+
+Pesquisar sobre os intents desses aplicativos e criar um app com os três botões.
