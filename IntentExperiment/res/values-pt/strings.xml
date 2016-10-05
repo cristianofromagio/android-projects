@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Intent Experiment</string>
+    <string name="hello_world">Olá mundo!</string>
+    <string name="action_settings">Configurações</string>
+    <string name="guide">Escolha uma aplicação a ser executada</string>    
+    <string name="btn1">Calculadora</string>
+    <string name="btn2">Google Chrome</string>
+    <string name="btn3">Google Maps</string>
+
+</resources>
