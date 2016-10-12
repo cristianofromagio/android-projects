@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ActivityInterna</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="button1">Somar 2 números</string>
+    <string name="button2">Converter temperatura</string>
+    <string name="button3">Visualizar imagem</string>
+    <string name="view1">Soma de 2 números</string>
+    <string name="view2">Converter celsius para fahrenheit</string>
+    <string name="view3">Reprodução da perfeição</string>
+    <string name="title_activity_soma">SomaActivity</string>
+    <string name="title_activity_converter">ConverterActivity</string>
+    <string name="title_activity_visualizar">VisualizarActivity</string>
+    
+    <!-- Soma -->
+    <string name="digitenum1">Digite o primeiro número: </string>
+    <string name="digitenum2">Digite o segundo número: </string>
+	<string name="somar">Somar</string>
+	<string name="limpar">Limpar</string>
+	
+	<!-- Converte -->
+    <string name="digitetemp">Digite o temperatura em Celsius: </string>
+    <string name="converter">Converter</string>    
+
+</resources>
