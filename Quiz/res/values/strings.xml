@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Quiz - Questão 1</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_two">Questão 2</string>
+    <string name="title_activity_three">Questão 3</string>
+    <string name="title_activity_four">Questão 4</string>
+    <string name="title_activity_five">Questão 5</string>
+    <string name="apresentacao">Responda corretamente o questionário a seguir:</string>
+    
+    <string name="pergunta1">The book is...</string>
+    <string name="p1op1">on the floor</string>
+    <string name="p1op2">the table</string>
+    <string name="p1op3">on the table</string>
+    
+    <string name="pergunta2">Let the bodies...</string>
+    <string name="p2op1">hit the floor</string>
+    <string name="p2op2">hit the door</string>
+    <string name="p2op3">rip in pepperonies</string>
+    
+    <string name="pergunta3">The cake is...</string>
+    <string name="p3op1">explosive</string>
+    <string name="p3op2">a lie</string>
+    <string name="p3op3">a quake</string>
+    
+    <string name="pergunta4">It\'s a...</string>
+    <string name="p4op1">rap!</string>
+    <string name="p4op2">crap!</string>
+    <string name="p4op3">trap!</string>
+    
+    <string name="pergunta5">Escolha sabiamente:</string>
+    <string name="p5op1">Power Rangers</string>
+    <string name="p5op2">Batata</string>
+    <string name="p5op3">Tartarugas ninjas</string>
+    
+    <string name="proxima">Próxima</string>
+    <string name="concluir">Finalizar</string>    
+    <string name="sair">Sair</string>
+
+</resources>
